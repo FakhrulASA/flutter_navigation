@@ -84,8 +84,6 @@ class _MyHomePageState extends State<MyHomePage> {
               child: Text("Hello"),),
             Container(width: 200,color: Colors.red,
               child: Text("Hello"),),
-            Container(width: 200,color: Colors.red,
-              child: Text("Hello"),),
           ],
         ),
         appBar: AppBar(

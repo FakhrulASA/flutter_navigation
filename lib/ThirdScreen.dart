@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class ThirdScreen extends StatefulWidget {
-  const ThirdScreen({Key? key}) : super(key: key);
 
+  static String a = "abcd";
   @override
   State<ThirdScreen> createState() => _ThirdScreenState();
 }
